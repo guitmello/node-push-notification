@@ -1,0 +1,15 @@
+{
+  "name": "nodepushnotification",
+  "version": "1.0.0",
+  "description": "Simple app push notification with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme de Mello",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web-push": "^3.3.5"
+  }
+}
